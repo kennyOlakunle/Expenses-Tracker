@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's a React app built with React Hooks and ContextAPI
+
 ## Available Scripts
 
 In the project directory, you can run:
